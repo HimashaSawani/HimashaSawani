@@ -59,7 +59,7 @@ Here are some projects I’ve worked on:
 
 
 ## 🤝 Connect With Me
-- 💼 LinkedIn: *https://github.com/HimashaSawani*
+- 💼 LinkedIn: *(https://www.linkedin.com/in/himasha-sawani/)*
 - 📧 Email: *himashasawani@gmail.com*
 
 ---
