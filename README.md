@@ -1,82 +1,117 @@
-## Hi there 👋 
+# Hey there! I'm Himasha Sawani 👋
 
-I’m a passionate developer interested in building **web applications, AI-powered tools, and backend systems**.  
-Currently learning and working on projects using **Python, JavaScript, React, Node.js, and AI/ML technologies**.
+### 💻 Software Developer | Full-Stack Development | AI & Backend Engineering
 
----
+I'm a passionate software developer focused on building **modern web applications, intelligent software solutions, and reliable backend systems**.
 
-## 🚀 About Me
-- 🎓 University student & intern  
-- 💡 Interested in **Web Development, AI, and Cloud Technologies**
-- 🛠 Currently working on **real-world projects & internships**
-- 🌱 Learning **Python, Machine Learning, and Full-Stack Development**
-- ✨ Always curious to learn new technologies
+I enjoy transforming ideas into functional applications, designing RESTful APIs, exploring AI technologies, and solving real-world problems through code.
+
+My interests include **Software Engineering, Full-Stack Development, Artificial Intelligence, and Cloud Technologies**.
 
 ---
 
-## 🧰 Tech Stack
+### 🚀 What I Do
+
+- 💻 Develop full-stack web applications with modern frameworks
+- ⚙️ Build RESTful APIs and backend services
+- 🤖 Integrate AI and intelligent automation into applications
+- 📊 Create interactive dashboards and data-driven solutions
+- 🔐 Implement authentication, authorization, and secure application workflows
+- 🌱 Continuously explore software architecture, testing, and cloud technologies
+
+---
+
+### 🛠️ Tech Stack
+
 **Languages**
-- Python
-- JavaScript
-- Java
-- SQL
+
+`Python` `JavaScript` `TypeScript` `Java` `C#` `PHP` `SQL`
 
 **Frontend**
-- React
-- HTML5
-- CSS3
-- Tailwind CSS
+
+`React` `Next.js` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap`
 
 **Backend**
-- Node.js
-- Express
-- FastAPI
+
+`Node.js` `Express.js` `FastAPI` `NestJS` `Laravel`
 
 **Databases**
-- MySQL
-- PostgreSQL
-- MongoDB
+
+`PostgreSQL` `MySQL` `MongoDB` `SQLite`
+
+**AI & Data**
+
+`Machine Learning` `NLP` `OCR` `Data Analysis` `AI Integration`
 
 **Tools & Platforms**
-- Git & GitHub
-- VS Code
-- Docker (basic)
-- Postman
+
+`Git` `GitHub` `Docker` `Postman` `VS Code` `REST APIs`
 
 ---
 
-## 📌 Projects
-Here are some projects I’ve worked on:
+### 🌟 Featured Projects
 
-- 🔹 **Seat Reservation System** – Node.js, Express, JWT, SQL  
-- 🔹 **AI Outfit Recommendation System** – Python, ML, React  
-- 🔹 **Pixora** – Image processing & editing tool  
-- 🔹 **Intern Attendance System** – Web-based system with validation  
+#### 🌬️ [WindSight UK](https://github.com/HimashaSawani/WindSight-UK)
+A full-stack UK wind energy analytics dashboard for historical forecast monitoring, accuracy evaluation, and interactive data visualization.
 
-➡️ Check out my repositories for more!
+**Tech:** React, TypeScript, FastAPI, Python
+
+#### 📅 [ReserveHub](https://github.com/HimashaSawani/ReserveHub)
+A full-stack resource reservation platform with secure authentication, conflict-free bookings, scheduling, and administrative controls.
+
+**Focus:** Full-Stack Development, Booking Systems, Authentication
+
+#### 🚗 [Fixmate](https://github.com/HimashaSawani/fixmate)
+A privacy-first vehicle maintenance and fleet management application featuring offline storage, receipt OCR, AI assistance, fuel tracking, and service reminders.
+
+**Tech:** React Native, Expo, TypeScript, SQLite
+
+#### 📋 [Taskflow](https://github.com/HimashaSawani/Taskflow)
+A Trello-inspired task management platform with drag-and-drop functionality, JWT authentication, and role-based access control.
+
+**Tech:** Next.js, Express.js, TypeScript, MongoDB
+
+#### 🧠 [AI-Powered Job Resume Matching Platform](https://github.com/HimashaSawani/AI-Powered-Job-Resume-Matching-Platform)
+An AI-driven recruitment platform that uses natural language processing and semantic matching to connect candidates with relevant job opportunities.
+
+**Focus:** AI, NLP, Full-Stack Development
+
+#### 🏢 [AI-Powered Business Operations SaaS](https://github.com/HimashaSawani/AI-Powered-Business-Operations-SaaS)
+An AI-powered multi-tenant business operations platform built using Laravel, React, and Python.
+
+**Tech:** Laravel, React, Python
 
 ---
 
+### 📊 GitHub Statistics
 
-## 🤝 Connect With Me
-- 💼 LinkedIn: *https://www.linkedin.com/in/himasha-sawani/*
-- 📧 Email: *himashasawani@gmail.com*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HimashaSawani&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimashaSawani&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-⭐ *If you like my work, feel free to star my repositories!*
+### 🎯 Areas of Interest
 
-<!--
-**HimashaSawani/HimashaSawani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Artificial Intelligence & Intelligent Applications
+- Full-Stack Software Engineering
+- Backend Systems & API Architecture
+- Cloud Computing & DevOps
+- Software Testing & Automation
+- Scalable Web Applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Connect With Me
+
+I'm always interested in learning, collaborating, and contributing to meaningful software projects.
+
+💼 **LinkedIn:** [Himasha Sawani](https://www.linkedin.com/in/himasha-sawani/)
+
+📧 **Email:** himashasawani@gmail.com
+
+💻 **GitHub:** [@HimashaSawani](https://github.com/HimashaSawani)
+
+---
+
+*Turning ideas into code, and code into meaningful solutions.* 🚀
